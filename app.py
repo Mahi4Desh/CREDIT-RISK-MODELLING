@@ -4,7 +4,7 @@ import lime
 import lime.lime_tabular
 import matplotlib.pyplot as plt
 import pickle 
-import xgboost 
+import xgboost as xgb
 app = Flask(__name__)
 
 @app.route('/')
