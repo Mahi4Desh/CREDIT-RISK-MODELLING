@@ -664,9 +664,7 @@ k = df_unseen_encoded.describe()
 # elapsed_time = end_time - start_timea
 # print("Total run time of programme " + str(round(elapsed_time, 2)) + "sec")
 
-!pip install shap
 
-pip install lime
 
 import lime
 import lime.lime_tabular
