@@ -7,4 +7,5 @@ sklearn
 scipy
 os
 warnings
+xgboost
 gunicorn
