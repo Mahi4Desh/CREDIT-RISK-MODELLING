@@ -3,7 +3,7 @@ pandas
 lime
 matplotlib
 numpy
-sklearn
+scikit-learn
 scipy
 os
 warnings
