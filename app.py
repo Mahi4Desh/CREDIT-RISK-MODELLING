@@ -65,4 +65,5 @@ def submit():
         return 'Method Not Allowed', 405
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.debug = True
+    app.run()
