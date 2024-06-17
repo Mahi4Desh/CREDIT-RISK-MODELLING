@@ -1,2 +1,6 @@
 flask==3.0.3
+pandas
+lime
+matplotlib
+pickle
 gunicorn
